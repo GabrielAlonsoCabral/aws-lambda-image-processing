@@ -18,5 +18,8 @@
     sh test.sh
 ```
 
+Developed by
+    @GabrielAlonsoCabral
+
 ## refs
 https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
