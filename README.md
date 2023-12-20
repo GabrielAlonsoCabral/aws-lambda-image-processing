@@ -5,8 +5,10 @@
     Also this project is being developed to support large files processing,
     which is his main needs behind this project. 
 
+```
 Developed by
     @GabrielAlonsoCabral
+```
 
 ## Build
 ```
