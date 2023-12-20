@@ -31,7 +31,7 @@ Developed by
 
 ## refs
  - Useful to integrate lambda code with s3
- 
+    <br/>
     https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
 
  - Useful to startup "cargo lambda"  
