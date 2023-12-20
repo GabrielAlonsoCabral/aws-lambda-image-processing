@@ -6,8 +6,7 @@
     which is his main needs behind this project. 
 
 ```
-Developed by
-    @GabrielAlonsoCabral
+Developed by @GabrielAlonsoCabral
 ```
 
 ## Build
