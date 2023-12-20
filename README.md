@@ -30,4 +30,7 @@ Developed by
 
 
 ## refs
-https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
+ - Useful to integrate lambda code with s3
+    https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
+ - Useful to startup "cargo lambda"  
+    https://www.cargo-lambda.info/guide/getting-started.html
