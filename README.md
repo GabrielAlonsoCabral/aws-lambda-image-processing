@@ -35,4 +35,5 @@ Developed by
     https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
 
  - Useful to startup "cargo lambda"  
+    <br/>
     https://www.cargo-lambda.info/guide/getting-started.html
