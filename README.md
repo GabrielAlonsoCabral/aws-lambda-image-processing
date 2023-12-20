@@ -1,3 +1,10 @@
+# Rust AWS Lambda (Image processing)
+    This repo has as role track for images in specif bucket
+    and insert in MongoDB his metadata.
+    
+    Also this project is being developed to support large files processing,
+    which is his main needs behind this project. 
+
 ## Build
 ```
     sh build.sh
