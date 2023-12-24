@@ -24,16 +24,11 @@ async fn function_handler(
     }
 
     let record: S3Entity = event.payload.records[0].s3.clone();
-    let bucket: String = record.bucket.name.expect("Bucket name to exist");
-    let key: String = record
-        .object
-        .key
-        .expect("Object key must to exist")
-        .to_string();
+    let bucket: String = record.bucket.name.expect("Expect Bucket name to exist");
+    let key: String = record.object.key.expect("Expect key to exist").to_string();
 
     let bucket_clone: String = bucket.clone();
     let key_clone: String = key.clone();
-    println!("Bucket: {:?} key: {:?}", bucket, key);
 
     let s3_head = s3_client.head_object().bucket(bucket).key(key).send().await;
 
